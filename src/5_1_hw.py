@@ -17,4 +17,4 @@ while True:
             else:
                 print('Na nol ne delyat')
     else:
-        print('Nevernij!!!')
+        print('Nevernij znak.')
